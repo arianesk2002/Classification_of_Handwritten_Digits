@@ -41,5 +41,3 @@ The project uses the **MNIST dataset**, which contains:
 
 > Each image represents a handwritten digit written by humans and normalized for machine learning tasks.
 
----
-
